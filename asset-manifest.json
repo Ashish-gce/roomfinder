@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/roomfinder/static/css/main.36396ab3.chunk.css",
+    "main.js": "/roomfinder/static/js/main.dd4e4a1c.chunk.js",
+    "main.js.map": "/roomfinder/static/js/main.dd4e4a1c.chunk.js.map",
+    "runtime-main.js": "/roomfinder/static/js/runtime-main.1e748474.js",
+    "runtime-main.js.map": "/roomfinder/static/js/runtime-main.1e748474.js.map",
+    "static/js/2.2071302b.chunk.js": "/roomfinder/static/js/2.2071302b.chunk.js",
+    "static/js/2.2071302b.chunk.js.map": "/roomfinder/static/js/2.2071302b.chunk.js.map",
+    "index.html": "/roomfinder/index.html",
+    "static/css/main.36396ab3.chunk.css.map": "/roomfinder/static/css/main.36396ab3.chunk.css.map",
+    "static/js/2.2071302b.chunk.js.LICENSE.txt": "/roomfinder/static/js/2.2071302b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roomfinder/static/media/room-2.48c60181.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/roomfinder/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.87947b58.svg": "/roomfinder/static/media/logo.87947b58.svg",
+    "static/media/room-1.05b90599.jpeg": "/roomfinder/static/media/room-1.05b90599.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e748474.js",
+    "static/js/2.2071302b.chunk.js",
+    "static/css/main.36396ab3.chunk.css",
+    "static/js/main.dd4e4a1c.chunk.js"
+  ]
+}
